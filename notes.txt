@@ -1,0 +1,1 @@
+FASTQ has 4 lines per read
